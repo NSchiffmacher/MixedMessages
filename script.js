@@ -12,6 +12,7 @@ const MessageGenerator = {
     },
     createMessage(){
         // test
+        // test2
     },
 }
 
