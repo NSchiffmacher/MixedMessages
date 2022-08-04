@@ -11,11 +11,6 @@ const MessageGenerator = {
 
     },
     createMessage(){
-        // let message = '';
-        // message += this.getCutename();
-        // message += this.getFeeling();
-        // message += this.getName();
-        // return message;
     },
 }
 
